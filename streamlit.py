@@ -13,7 +13,7 @@ import base64
 st.set_page_config(layout="wide", page_title="Visualizing the Credit Card Landscape: From Market Offerings to Beginner-Friendly Recommendations")
 
 # Title and Author Section
-st.title("Credit Cards: ")
+st.title("Unlocking Beginner‑Friendly Credit Cards")
 st.markdown("**Author**: Pratham Pradhan | **Affiliation**: CMSE at MSU")
 st.markdown(
     """
